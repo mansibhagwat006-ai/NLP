@@ -1,0 +1,5 @@
+# Exact AI Prompt Used
+
+Use the following prompt in an AI tool:
+
+"Build a Python 3 NLP program for a food delivery customer-review dataset. The program should accept a list of food delivery customer reviews, preprocess every review using tokenisation, English stopword removal with NLTK, and Porter stemming, build a TF-IDF matrix, split the data into training and test sets, train a Logistic Regression model to classify reviews as Positive or Negative, print the test accuracy, and then allow the user to enter three new reviews at runtime and print the predicted sentiment for each. Keep the code beginner-friendly and suitable for a Data Science/NLP assessment. Include installation requirements if needed."
